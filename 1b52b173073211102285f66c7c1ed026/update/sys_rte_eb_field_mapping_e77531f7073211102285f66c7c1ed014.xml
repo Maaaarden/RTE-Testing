@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="Name">7a24f977073211102285f66c7c1ed02e</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 08:57:41</sys_created_on>
+        <sys_id>e77531f7073211102285f66c7c1ed014</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ETL Tokyo Testing" source="x_932186_etl_tokyo">1b52b173073211102285f66c7c1ed026</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="ETL Tokyo Testing">0903fd37073211102285f66c7c1ed005</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="Temp to Test CI">f5657db7073211102285f66c7c1ed073</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="ETL Tokyo Testing">1b52b173073211102285f66c7c1ed026</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_e77531f7073211102285f66c7c1ed014</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 08:57:41</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Name">8e54f1b7073211102285f66c7c1ed02a</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>
